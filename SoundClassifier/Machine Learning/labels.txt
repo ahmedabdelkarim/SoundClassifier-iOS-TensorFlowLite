@@ -1,0 +1,4 @@
+0 Background Noise
+1 Double Clap
+2 Single Clap
+3 Whistle
